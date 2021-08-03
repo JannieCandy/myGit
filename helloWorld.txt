@@ -15,4 +15,4 @@ hello git!helloWorld!
 hello git!helloWorld!
 hello git!helloWorld!
 hello git!helloWorld! master test
-hello git!helloWorld!
+hello git!helloWorld! hot-fix test
